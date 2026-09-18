@@ -1,0 +1,6 @@
+{
+  "name": "NER ACCESS",
+  "description": "AI-Powered Offline Logistics & Accessibility Intelligence Platform for North Eastern Region (SIH26002). Smart Navigation with Zero Internet Dependency.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
